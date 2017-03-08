@@ -1,5 +1,7 @@
 # PageRank-Implementation
 
+Steps to be performed:
+
 0) ant clean; ant
 
 1)hadoop dfs -mkdir input
